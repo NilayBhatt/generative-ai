@@ -11,9 +11,15 @@
     <a target="_blank" href="https://x.com/zero2nn"><img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=%20%40zero2nn"></a>
 </div>
 <br>
-<div align="center">
-    <a target="_blank" href="https://aimlcompanion.ai/"><img src="https://img.shields.io/badge/🚀%20AI--ML%20Companion-Live%20Now!%20Interactive%20Learning%20Platform%20⭐-0EA5E9?style=for-the-badge&labelColor=0D1117"></a>
-</div>
+
+## 🎯 Learn all this Interactively
+
+I built **[AI-ML Companion](https://aimlcompanion.ai)** - every AI, ML, GenAI and Agentic AI concept covered here, taught visually with animated diagrams, quizzes, and hands-on Python.
+
+**260+ modules • 20 tracks • 9 real-world projects • 11 tracks free to start**
+
+[![Try AI-ML Companion](https://img.shields.io/badge/Try%20AI--ML%20Companion-Live%20App-blue?style=for-the-badge)](https://aimlcompanion.ai)
+
 <br>
 Your go-to hub for end-to-end GenAI learning. ⭐ Star this repo to stay updated with the latest GenAI resources :)
 
