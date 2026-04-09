@@ -12,7 +12,7 @@
 </div>
 <br>
 
-## 🎯 Learn all this Interactively
+## 🎯 Learn Ai/ML Interactively
 
 I built **[AI-ML Companion](https://aimlcompanion.ai)** - every AI, ML, GenAI and Agentic AI concept covered here, taught visually with animated diagrams, quizzes, and hands-on Python.
 
