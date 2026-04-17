@@ -12,7 +12,13 @@
 </div>
 <br>
 
-> **Learn AI/ML interactively at [AI-ML Companion](https://aimlcompanion.ai/)** - Guided walkthroughs, architecture decisions, hands-on challenges, and narrated overviews for every project.
+## 🎯 Learn AI/ML Interactively
+
+I built **[AI-ML Companion](https://aimlcompanion.ai)** - every AI, ML, GenAI and Agentic AI concept covered here, taught visually with animated diagrams, quizzes, and hands-on Python.
+
+**260+ modules • 20 tracks • 9 real-world projects • 11 tracks free to start**
+
+[![Try AI-ML Companion](https://img.shields.io/badge/Try%20AI--ML%20Companion-Live%20App-blue?style=for-the-badge)](https://aimlcompanion.ai)
 
 <br>
 Your go-to hub for end-to-end GenAI learning. ⭐ Star this repo to stay updated with the latest GenAI resources :)
